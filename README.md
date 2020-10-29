@@ -1,5 +1,5 @@
 # School-projecten
-## Dit is mijn eerste opdracht voor de opleiding Softwaredeveloper
+Dit zijn mijn opdrachten van de eerste periode van de opleiding Softwaredeveloper
 ### Opdrachtgever: Media College Amsterdam
 #### Opdrachten in deze repository
 ## Microbit
